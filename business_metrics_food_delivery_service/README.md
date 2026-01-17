@@ -1,6 +1,6 @@
 # Business Metrics Dashboard: Food Delivery Service
 
-[Key Business Metrics in Saransk (May–June 2021)](https://datalens.ru/8opem2kvkf4qt-klyuchevye-biznes-metriki-v-saranske-may-iyun-2021?tab=BG)
+[Key Business Metrics in Saransk (May–June 2021)](https://datalens.yandex/8opem2kvkf4qt)
 
 ## Goal
 
