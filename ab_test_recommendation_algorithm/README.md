@@ -12,15 +12,15 @@ Design and evaluate an A/B test for a new recommendation algorithm in an enterta
 
 ## Data
 
-Session-level datasets covering historical session data and the A/B experiment.
+Session-level datasets covering historical user behavior and the A/B experiment period.
 
 ## Key Steps
 
 1. **Exploratory data analysis** of historical sessions to validate data quality and establish baseline engagement metrics  
-2. **A/B test design**: definition of the primary metric, hypotheses, sample size, and test duration  
-3. **Experiment monitoring and validation**
-4. **Results analysis**: evaluation of the primary metric and statistical significance
-5. **Interpretation and recommendations** based on observed effects  
+2. **A/B test design** (primary metric, hypotheses, sample size, test duration)  
+3. **Experiment monitoring and validation** (group balance, independence, distributions) 
+4. **Statistical analysis of experiment results**
+5. **Interpretation and recommendations** based on observed effects
 
 ## Main Findings
 
@@ -35,4 +35,4 @@ Session-level datasets covering historical session data and the A/B experiment.
 
 ## Recommendations
 
-- Consider rolling out the new recommendation algorithm based on the statistically significant uplift in engagement.
+- Proceed with rolling out the new recommendation algorithm, as it delivers a statistically significant improvement in user engagement.
