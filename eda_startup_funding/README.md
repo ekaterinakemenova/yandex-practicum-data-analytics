@@ -37,5 +37,5 @@ Company-level datasets covering startup attributes, funding rounds, investment v
 
 - Focus on **fast-growing markets** such as **technology**, **medical**, **internet**, and **apps**.  
 - Use **mass markets** as the baseline for stability and predictability, given their concentration and deeper deal flow.  
-- Prioritize **debt financing** and **private_equity** when optimizing for **return share** (returns / invested capital), while keeping **venture** as a core option due to its dominant scale and improving return share trend.
+- Prioritize `debt_financing` and `private_equity` when optimizing for **return share** (returns / invested capital), while keeping `venture` as a core option due to its dominant scale and improving return share trend.
 - Target deals within the typical funding range of **$350K–$24M**.
