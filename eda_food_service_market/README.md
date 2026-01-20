@@ -12,7 +12,7 @@ Conduct an exploratory analysis of the Moscow food service market as of summer 2
 
 ## Data
 
-Venue-level datasets covering venue attributes, location, chain affiliation, ratings, operating hours, seating capacity, pricing indicators (price category and average bill).
+Venue-level datasets covering venue attributes, location, chain affiliation, ratings, operating hours, seating capacity, pricing indicators.
 
 ## Key Steps
 
