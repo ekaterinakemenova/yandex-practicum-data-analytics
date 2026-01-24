@@ -1,5 +1,5 @@
 # EDA: Bike-Share Usage Patterns
-Case study of the Cyclistic bike-share service completed as the capstone project for the Google Data Analytics Professional Certificate (Coursera).
+Case study completed as the capstone project for the Google Data Analytics Professional Certificate (Coursera).
 
 ## Goal
 Conduct an exploratory analysis of the Cyclistic bike-share program in order to identify behavioral differences between annual members and casual riders and to generate insights that can inform marketing strategies aimed at converting casual riders into annual members.
