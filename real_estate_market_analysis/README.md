@@ -35,4 +35,4 @@ Historical real estate listings for Saint Petersburg and the Leningrad Region, c
 ## Recommendations
 
 - **Plan market entry and major marketing campaigns for autumn (Sep–Nov)** when both supply and demand are at their highest.
-- **Differentiate strategy by region:** In **Saint Petersburg**, expect **longer sales cycles** for **large and expensive** properties. For faster turnover, prioritize **smaller and more affordable** inventory, which tends to exit the market quicker.
+- **Differentiate strategy by region:** In **Saint Petersburg**, expect **longer sales cycles** for **large and expensive** properties. For faster turnover, prioritize smaller and more affordable inventory, which tends to exit the market quicker.
