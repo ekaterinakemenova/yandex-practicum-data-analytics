@@ -26,7 +26,7 @@ Historical trip-level data from the Cyclistic bike-share service for Q1 2019 and
 - Demographically, casual riders are younger on average (~29 vs. ~37 for members) and more gender-balanced (69% male / 31% female), while members are predominantly male (81%).
 
 ## Recommendations
-- Offer flexible/seasonal membership options for frequent casual riders  
-- Promote commuting-related benefits to casual riders with weekday usage 
-- Tailor marketing campaigns to women riders (safety, comfort, routes)  
-- Combine targeted conversion strategies with broader outreach near commuter hubs
+- Offer flexible/seasonal membership options for frequent casual riders.  
+- Promote commuting-related benefits to casual riders with weekday usage. 
+- Tailor marketing campaigns to women riders (safety, comfort, routes).  
+- Combine targeted conversion strategies with broader outreach near commuter hubs.
