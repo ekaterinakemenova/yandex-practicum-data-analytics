@@ -24,15 +24,15 @@ Datasets covering user activity, orders, revenue, restaurants, dishes, and adver
 
 ## Main Findings
 
-- **DAU** is volatile, with higher values on weekdays and drops on weekends  
-- **Conversion Rate** remains relatively stable (≈25–33%), with short-term fluctuations  
-- **Average Order Value** increased from May to June by **~8.6%**  
-- **Retention Rate** is low overall (≈4–5% by Day 7); May cohort retains better than June  
-- Two restaurants generate a disproportionate share of total **LTV**  
-- Top LTV-driving dishes are primarily meat-based hot meals  
+- **DAU** is volatile, with higher values on weekdays and drops on weekends.  
+- **Conversion Rate** remains relatively stable (≈25–33%), with short-term fluctuations.  
+- **Average Order Value** increased from May to June by **~8.6%**.  
+- **Retention Rate** is low overall (≈4–5% by Day 7); May cohort retains better than June.  
+- Two restaurants generate a disproportionate share of total **LTV**.  
+- Top LTV-driving dishes are primarily meat-based hot meals.  
 
 ## Recommendations
 
-- Improve **DAU and retention rate** via push notifications, onboarding incentives, and loyalty programs  
-- Increase **AOV** by promoting high-LTV restaurants and dishes  
-- Monitor seasonality and technical stability to explain traffic drops  
+- Improve **DAU and retention rate** via push notifications, onboarding incentives, and loyalty programs.  
+- Increase **AOV** by promoting high-LTV restaurants and dishes.  
+- Monitor seasonality and technical stability to explain traffic drops.  
