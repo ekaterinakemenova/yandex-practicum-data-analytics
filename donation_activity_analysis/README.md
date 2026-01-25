@@ -18,6 +18,7 @@ Anonymized data from the DonorSearch platform, including: donor profiles and agg
 5. **Donor acquisition channels analysis**
 6. **One-time vs. repeat donors** (segmentation and comparison based on confirmed donation counts)
 7. **Planned vs. actual donations** (evaluation of donation planning effectiveness)
+8. **Age and gender segmentation**
    
 ## Main Findings
 - **Geographic concentration:** Donor activity is highly concentrated in large urban regions. **Moscow and Saint Petersburg** account for the largest share of registered donors.
@@ -25,10 +26,11 @@ Anonymized data from the DonorSearch platform, including: donor profiles and agg
 - **Donor inequality:** More than **50% of donors donate only once**, while a small group (~14%) of **highly active repeat donors (10+ donations) generates over two-thirds (68%) of all confirmed donations**, making retention the key driver of total donation volume.
 - **Bonuses and engagement:** Donors who use bonuses are few in number but demonstrate a **~18 times higher average donation activity**, suggesting that incentive mechanisms are strongly associated with sustained engagement.
 - **Planning effectiveness:** Conversion from planned to actual donations is relatively low (**~22% for unpaid and ~13% for paid donations**), indicating friction between intent and action.
-- **Acquisition channels:** VKontakte is the largest acquisition channel by volume, while smaller channels (Yandex, Google, Telegram) show higher average donations per donor.
+- **Age and gender patterns:** Donation activity is concentrated among donors aged **25-44 across both genders**, with **men aged 35-44** representing the largest segment (**~31% of all confirmed donations**).
 
 ## Recommendations
 - **Focus on donor retention:** Prioritize strategies aimed at repeat donors, as they drive the majority of total donations.
 - **Expand bonus programs:** Test broader and more targeted bonus programs to increase engagement beyond the current small but highly active bonus-using group.
 - **Improve donation planning workflows:** Introduce reminders, flexible rescheduling, and clearer follow-ups to increase plan-to-donation conversion rates.
+- **Target core demographic segments:** Prioritize engagement and retention efforts for donors aged **25-44**, particularly men, as this group generates the largest share of confirmed donations.
 - **Investigate the 2023 decline:** Explore external factors or product changes that may explain the observed decrease in donation activity in 2023.
